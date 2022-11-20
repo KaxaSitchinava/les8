@@ -67,4 +67,10 @@
     .p3 {
         margin-bottom: 40px;
     }
+    .header {
+        margin-left: 0px;
+    }
+    .burger {
+        margin-right: 20px;
+    }
 }
